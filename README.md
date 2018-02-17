@@ -4,9 +4,11 @@ This script is part of a larger joint research project studying the consequences
 
 Latent Dirichlet Allocation (LDA) is an unsupervised machine learning algorithm, which was used to identify clusters of words in the survey responses. These clusters were then interpreted by researchers for “topics” shared by these deported children. The scripts analyze responses and create three outputs: a text file with the five topics and their top 50 words, a frequency chart of the topic models, and a word cloud image file.
 
+***The products and outputs from the analysis are provided, but the original survey has been excluded for privacy reasons.**
+
 # Citations
 
-Andreas Mueller. Word_cloud, https://github.com/amueller/word_cloud, (2012)
+Andreas Mueller. word_cloud, https://github.com/amueller/word_cloud, (2012)
 
 Fabian Pedregosa, Gaël Varoquaux, Alexandre Gramfort, Vincent Michel, Bertrand Thirion, Olivier Grisel, Mathieu Blondel, Peter Prettenhofer, Ron Weiss, Vincent Dubourg, Jake Vanderplas, Alexandre Passos, David Cournapeau, Matthieu Brucher, Matthieu Perrot, Édouard Duchesnay. Scikit-learn: Machine Learning in Python, Journal of Machine Learning Research, 12, 2825-2830 (2011) http://jmlr.org/papers/v12/pedregosa11a.html
 
