@@ -1,0 +1,5 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Files <data used in program, but reserved for research privacy>
+mx_survey.csv
